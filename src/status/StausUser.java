@@ -8,6 +8,7 @@ package status;
 /**
  * MidTerm-Exam
  * @author srinivsi
+ * Name - Simarpartap Jaura
  */
 public class StausUser 
 {
